@@ -11,7 +11,8 @@
     <!-- My Style-->
     <link rel="stylesheet" href="css/style.css" type="text/css">
 
-    <title>Login | SuratMenyorak</title>
+    <title>SuratMenyorak | Login</title>
+    <link rel="shortcut icon" href="favicon_io/favicon-32x32.png" type="image/x-icon">
   </head>
   <body>
     <img class="mb-4 mt-2 ms-4" src="img/logoukdw.png" alt="" width="92" height="112">
